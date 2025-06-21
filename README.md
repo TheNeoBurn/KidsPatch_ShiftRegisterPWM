@@ -2,11 +2,11 @@
 
 Using an ATTiny85 and a 5x5 LED shift register display for a school bag patch
 
-<img src="img/patch.gif" style="max-height:40vh;" />
+<img src="img/patch.gif" style="height:320px;" />
 
 ## Story
 
-This is my second project to create a programmable patch for school bags. It is very similar to the [first one](/TheNeoBurn/KidsPatch_WS2812) but instead of a 5x5 WS2812 matrix display, this one uses shift registers and simple LEDs, making this a more low-level approach in hardware and softwere.
+This is my second project to create a programmable patch for school bags. It is very similar to the [first one]([/TheNeoBurn/KidsPatch_WS2812](https://github.com/TheNeoBurn/KidsPatch_WS2812)) but instead of a 5x5 WS2812 matrix display, this one uses shift registers and simple LEDs, making this a more low-level approach in hardware and softwere.
 
 This is meant to be more of a playground. It is easier to efficiently implement features and because there is no one-wire timing requirement, this can easily run on lower power-settings and speeds.
 
